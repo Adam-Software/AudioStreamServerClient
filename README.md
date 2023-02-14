@@ -15,4 +15,4 @@
 
 Stream wave files and audio from microphone and sound card (client - PC) to robot Adam (Server - raspberry).
 
-For stream audio from sound card please install driver https://vb-audio.com/Cable/index.htm on your PC. And set virtual cable as default device on input and output. 
+For stream audio from sound card please install driver https://vb-audio.com/Cable/index.htm on your PC. And set virtual cable as default device as input and output. 
